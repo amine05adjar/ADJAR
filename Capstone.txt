@@ -1,0 +1,14 @@
+H1: name
+photo
+hr
+H2 summary
+p parle de moi
+H2 education
+OL ou j'ai etudier avec certificat bac delf ...
+H2 work experience (no exp)
+H2 skills
+Ul mes skills
+HR
+about me & contact me
+
+
